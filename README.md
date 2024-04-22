@@ -36,7 +36,7 @@ You are going to create a profile website from scratch using HTML only.
 - Make your first hobby <strong>bold</strong> using the tag `<strong>`
 - End the sections using the `<hr/>`
 
-### Section 3:
+### Section 3: 
 
 - Start section with a separator comment `<!-- Section 3 -->`
 - Create a footer using `div` with a `style` attribute `background-color: black; color: white;`
